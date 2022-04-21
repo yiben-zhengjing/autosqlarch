@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-21T04:21:08.626Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3MPg6lgu9sLBdyrW6kFy" version="17.4.3" type="github">
+<mxfile modified="2022-04-21T04:22:00.528Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MgeieVMaDLFaig3APPZE" version="17.4.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -62,14 +62,6 @@
         </mxCell>
         <mxCell id="PlTXi9dPVwTUDiqTKwLx-1021" value="&lt;b&gt;Google Cloud Platform&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" parent="NVHOe3dstHH1mAVfR4si-16" vertex="1">
           <mxGeometry y="-20" width="469.99999999999994" height="451" as="geometry" />
-        </mxCell>
-        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1023" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="NVHOe3dstHH1mAVfR4si-16" vertex="1">
-          <mxGeometry x="12.128292682926828" y="44.05" width="148.35951219512194" height="92.82" as="geometry" />
-        </mxCell>
-        <mxCell id="PlTXi9dPVwTUDiqTKwLx-1024" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 6px&quot;&gt;Intelligent Automation bucket&lt;br&gt;&lt;/font&gt;&lt;hr&gt;&lt;font size=&quot;3&quot;&gt;Cloud Storage&lt;/font&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="PlTXi9dPVwTUDiqTKwLx-1023" vertex="1">
-          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
-            <mxPoint x="5" y="-19.5" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="NVHOe3dstHH1mAVfR4si-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;strokeColor=#007FFF;" parent="NVHOe3dstHH1mAVfR4si-16" source="PlTXi9dPVwTUDiqTKwLx-1025" target="PlTXi9dPVwTUDiqTKwLx-1028" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -177,6 +169,14 @@
           <mxGeometry x="51.64" y="518.43" width="148.36" height="51.57" as="geometry" />
         </mxCell>
         <mxCell id="oRG_ObDm1Sq0MpDUjUs1-3" value="&lt;font color=&quot;#000000&quot;&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;Script Bucket&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;hr&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Cloud Storage&lt;/font&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="oRG_ObDm1Sq0MpDUjUs1-2">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oRG_ObDm1Sq0MpDUjUs1-4" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="414" width="153.06" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="oRG_ObDm1Sq0MpDUjUs1-5" value="&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; Auto SQL&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;hr&gt;Cloud Functions" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_functions;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="oRG_ObDm1Sq0MpDUjUs1-4">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
